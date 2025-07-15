@@ -86,7 +86,7 @@ Je crois fermement à la collaboration open source, à la veille technologique, 
 - Gestion de version : Git, GitHub, GitLab
 - Intégration & déploiement continu : GitHub Actions, Docker, Heroku, Vercel, Netlify
 - Organisation : Trello, Notion, Jira
-- Design : Figma, Adobe XD
+- Design : Figma, Adobe XD , canva , webflow
 
 ---
 
@@ -97,7 +97,7 @@ Je crois fermement à la collaboration open source, à la veille technologique, 
 - [MonApp Django](https://github.com/stephy19/monapp-django)  
   Application web de gestion de tâches, backend Django, frontend React.
 
-- [React Portfolio]([https://](https://portfolio-irie.vercel.app/))  
+- [React Portfolio](https://portfolio-irie.vercel.app/)  
   Mon portfolio personnel, responsive et moderne, Next.js, Tailwind, DaisyUI.
 ---
 
@@ -113,8 +113,7 @@ Je crois fermement à la collaboration open source, à la veille technologique, 
 
 - **Email** : [stephy19@email.com](mailto:stephy19@email.com)
 - **LinkedIn** : [linkedin.com/in/stephy19](https://www.linkedin.com/in/stephy19)
-- **Twitter/X** : [@stephy19](https://twitter.com/stephy19)
-- **Discord** : stephy19#1234
+
 
 Toujours ouvert à la discussion, à la collaboration, à l’aide sur vos projets, ou même juste pour échanger sur la tech !
 
