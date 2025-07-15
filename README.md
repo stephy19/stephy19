@@ -97,15 +97,8 @@ Je crois fermement à la collaboration open source, à la veille technologique, 
 - [MonApp Django](https://github.com/stephy19/monapp-django)  
   Application web de gestion de tâches, backend Django, frontend React.
 
-- [React Portfolio](https://github.com/stephy19/react-portfolio)  
+- [React Portfolio]([https://](https://portfolio-irie.vercel.app/))  
   Mon portfolio personnel, responsive et moderne, Next.js, Tailwind, DaisyUI.
-
-- [API FastAPI Starter](https://github.com/stephy19/api-fastapi-starter)  
-  Boilerplate pour démarrer une API REST ultra-rapide.
-
-- [Dashboard Bootstrap](https://github.com/stephy19/dashboard-bootstrap)  
-  Dashboard interactif pour l’analyse de données, Bootstrap 5, Chart.js.
-
 ---
 
 ## 🌍 Open Source & Communauté
