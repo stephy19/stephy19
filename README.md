@@ -112,7 +112,7 @@ Je crois fermement à la collaboration open source, à la veille technologique, 
 ## 📫 Comment me contacter
 
 - **Email** : [stephy19@email.com](mailto:stephy19@email.com)
-- **LinkedIn** : [linkedin.com/in/stephy19]([https://www.linkedin.com/in/stephy19)
+- **LinkedIn** : [linkedin.com/in/stephy19](https://www.linkedin.com/in/vangny-st%C3%A9phane-irie-112637333)
 
 
 Toujours ouvert à la discussion, à la collaboration, à l’aide sur vos projets, ou même juste pour échanger sur la tech !
