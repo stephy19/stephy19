@@ -1,4 +1,4 @@
-# 👋 Salut, moi c'est Stephy19
+# 👋 Salut, moi c'est IRIE VANGNY STEPHANE
 
 Bienvenue sur mon profil GitHub !  
 Développeur **Fullstack** passionné, je construis des solutions robustes, innovantes et élégantes, du backend à l’UI/UX, avec un fort intérêt pour l’apprentissage continu et le partage.
